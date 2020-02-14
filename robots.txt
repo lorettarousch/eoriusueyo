@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aelaeshair.jennylianimation.com/sitemap.xml
